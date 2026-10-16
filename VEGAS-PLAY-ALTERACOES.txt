@@ -1,0 +1,9 @@
+VEGAS PLAY — identidade visual atualizada
+
+Logo horizontal e ícone aplicados no site, login e administração.
+Banners e capas locais editados com a marca Vegas Play.
+Nomes de arquivos antigos mantidos como aliases para compatibilidade.
+Textos de marca e metadados atualizados.
+
+Validação: npm run build concluído; sintaxe do backend validada.
+Escopo: identidade visual. Sem publicação ou migração de banco de dados.
